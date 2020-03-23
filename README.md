@@ -28,7 +28,7 @@ methods: {
 4. 实现dispatch方法，即调用并返回actions的方法，使用响应式的state入参即可
 5. 实现getters，利用Object.keys遍历传入的getters的key，再利用Object.defineProperty实现get方法
 
-源码在<a href="https://github.com/luch1994/simple-vuex">github</a>，在目录src/simple-vuex/index.js，演示在目录/src/components/simple-vuex-demo.vue里
+源码在<a href="https://github.com/luch1994/simple-vuex">github</a>上，在文件src/simple-vuex/index.js，演示的demo在文件/src/components/simple-vuex-demo.vue
 
 ## 开始使用
 ```
